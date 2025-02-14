@@ -1,0 +1,6 @@
+﻿  playlistmanager.cpp
+C:\Users\hp\OneDrive\Desktop\playlistmanager\playlistmanager\playlistmanager\PlaylistInfo.h(194,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'playlistmanager.cpp')
+  
+C:\Users\hp\OneDrive\Desktop\playlistmanager\playlistmanager\playlistmanager\playlistmanager.cpp(65,14): warning C4309: 'initializing': truncation of constant value
+  playlistmanager.vcxproj -> C:\Users\hp\OneDrive\Desktop\playlistmanager\playlistmanager\x64\Debug\playlistmanager.exe
